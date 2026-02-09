@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMegaSena", "MiniMegaSena\MiniMegaSena.csproj", "{6BF240E9-AA74-4D91-9522-07251180A146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF240E9-AA74-4D91-9522-07251180A146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF240E9-AA74-4D91-9522-07251180A146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF240E9-AA74-4D91-9522-07251180A146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF240E9-AA74-4D91-9522-07251180A146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E86FB76-4CFA-408E-B428-8947A8C3B99A}
+	EndGlobalSection
+EndGlobal
