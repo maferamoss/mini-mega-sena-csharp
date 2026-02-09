@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using MiniMegaSena;
 
+// teste commit
+
 class Program
 {
     static void Main(string[] args)
